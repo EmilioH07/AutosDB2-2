@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Autos DB</string>
+    <string name="no_data">¡No hay registros!</string>
+    <string name="genre">Género</string>
+    <string name="game">Juego</string>
+    <string name="confirm">Confirmación</string>
+    <string name="confirm_game">¿Realmente desea eliminar el auto %1$s?</string>
+    <string name="ok">Aceptar</string>
+    <string name="game_removed">Auto borrado exitosamente</string>
+    <string name="marca">Marca</string>
+    <string name="modelo">Modelo</string>
+    <string name="colors">Color</string>
+    <string name="all_ele">Agregrar elemento</string>
+    <string name="hd">Header</string>
+    <string name="img">Imagen</string>
+    <string name="brand">Marca del carro</string>
+    <string name="mod">Modelo</string>
+    <string name="col">Color</string>
+</resources>
